@@ -1,0 +1,21 @@
+{
+  "name": "Vigia Brasil — Monitoramento de Incêndios",
+  "short_name": "Vigia Brasil",
+  "description": "Painel móvel de apoio ao monitoramento de incêndios e condições de propagação no Brasil.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6f2",
+  "theme_color": "#143e2a",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
